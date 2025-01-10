@@ -1,0 +1,32 @@
+{
+  "name": "youtubepage",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "eslint": "^7.22.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react": "^7.23.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-plugin-simple-import-sort": "^7.0.0",
+    "next": "10.0.9",
+    "postcss-loader": "^8.1.1",
+    "postcss-scss": "^4.0.9",
+    "prettier": "^2.2.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/jit": "^0.1.7",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^2.0.4"
+  }
+}
